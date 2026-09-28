@@ -50,9 +50,9 @@ The program supports:
 ### Sample 2D Array
 
 ```python
-[,
- ,
-    [300, 500, 422]
+[[200, 123, 120],
+ [150, 260, 52],
+ [300, 500, 422]
 ]
 ```
 
@@ -155,9 +155,9 @@ The `conv()` function converts a 2D array into a 1D list.
 For example:
 
 ```python
-[,
- ,
-    [300, 500, 422]
+[[200, 123, 120],
+ [150, 260, 52],
+ [300, 500, 422]
 ]
 ```
 
